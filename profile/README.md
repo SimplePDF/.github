@@ -1,13 +1,4 @@
-</br>
-</br>
-<div align="center">
-  <a href="https://simplepdf.eu" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simplepdf.eu/simple-pdf/assets/simplepdf-github-white.png">
-    <img src="https://cdn.simplepdf.eu/simple-pdf/assets/simplepdf-github.png" width="560" alt="Logo"/>
-  </picture>
-  </a>
-</div>
+![Banner](https://cdn.simplepdf.eu/simple-pdf/assets/simplepdf-github.png)
 <h1 align="center">Welcome to our Github! 👋</h1>
 <div align="center">
 Add a powerful PDF editor directly into your website or React App.
