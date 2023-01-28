@@ -4,7 +4,7 @@
   <a href="https://simplepdf.eu" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simplepdf.eu/simple-pdf/assets/simplepdf-github-white.png">
-    <img src="https://cdn.simplepdf.eu/simple-pdf/assets/simplepdf-github.png" width="280" alt="Logo"/>
+    <img src="https://cdn.simplepdf.eu/simple-pdf/assets/simplepdf-github.png" width="560" alt="Logo"/>
   </picture>
   </a>
 </div>
