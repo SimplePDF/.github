@@ -1,4 +1,4 @@
-![Banner](https://cdn.simplepdf.com/simple-pdf/assets/simplepdf-github.png)
+![Banner](https://cdn.simplepdf.com/simple-pdf/assets/simplepdf-github.png?)
 <h1 align="center">Welcome to our Github! 👋</h1>
 <div align="center">
 Add a powerful PDF editor directly into your website or React App.
